@@ -1,0 +1,6 @@
+@Pluto.Web_HostAddress = http://localhost:5145
+
+GET {{Pluto.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
