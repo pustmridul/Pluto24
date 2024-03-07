@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pluto.Application.Interface
+namespace Pluto.Application.AutoMapper
 {
-    public interface ITokenService
+    public class AutomapperProfile
     {
     }
 }
